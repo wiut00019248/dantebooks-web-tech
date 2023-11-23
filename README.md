@@ -1,6 +1,6 @@
 # DanteBooks - Beta Version
 
-Welcome to DanteBooks, the go-to online bookstore based in Tashkent, Uzbekistan, operating seamlessly through a delivery service called Uzum Tezkor, similar to Amazon. In response to the frequent issues of delayed book deliveries and so on, the beta version of the website was recently introduced to the public so as to enhance the shopping experience.
+Welcome to DanteBooks, the go-to online bookstore based in Tashkent, Uzbekistan, operating seamlessly through a delivery service Uzum Tezkor, similar to Amazon. In response to the frequent issues of delayed deliveries and so on, the beta version of the website was recently introduced to the public so as to enhance the shopping experience.
 
 ## Features
 
